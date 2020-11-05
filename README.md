@@ -1,6 +1,6 @@
 # meditationapp
 
-Meditation App Futter Project.
+Meditation App Flutter
 
 ## Design
 

@@ -1,16 +1,13 @@
 # meditationapp
 
-A new Flutter project.
+Meditation App Futter Project.
 
-## Getting Started
+## Design
 
-This project is a starting point for a Flutter application.
+Following [Uplabs](https://www.uplabs.com/posts/meditation-ios-app) design is used
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/ychawla29/meditationapp/blob/master/screenshots/image1.png?raw=true" width="300" alt="Home Screen"/> <img src="https://github.com/ychawla29/meditationapp/blob/master/screenshots/image2.png?raw=true" width="300" alt="Popular Lessons"/> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/ychawla29/meditationapp/blob/master/screenshots/image4.png?raw=true" width="300" alt="Mental Training"/> <img src="https://github.com/ychawla29/meditationapp/blob/master/screenshots/image3.png?raw=true" width="300" alt="Profile"/> 
